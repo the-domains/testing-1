@@ -21,9 +21,9 @@ color:
     - '#5dbafd'
     - '#86fdfe'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.125
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose:
   - name: stars
     item: null
