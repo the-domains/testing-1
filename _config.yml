@@ -1,6 +1,7 @@
 name: 'Testing #1'
 favicon: null
 layout_spectrum: 0.99778
+typography_spectrum: 0.34667
 cta:
   domain: null
   bucket: null
