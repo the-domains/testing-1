@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Testing #1]]></title>
+        <description><![CDATA[Testing #1]]></description>
+        <link>https://thegrid.ai/testing-1/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 09 Oct 2015 05:38:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testing-1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These 10 up-and-coming startups are on Goldman Sachs' radar]]></title>
+            <description><![CDATA[<article><h1>These 10 up-and-coming startups are on Goldman Sachs' radar</h1><p>Which startups are on the radar of one of the biggest investment firms in the world? You might be surprised. In a research report this week, Goldman Sachs interviewed executives from ten startups from around the world that they're interested in.</p><img src="http://static6.businessinsider.com/image/56056b639dd7cc22008bd157/these-10-up-and-coming-startups-are-on-goldman-sachs-radar.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/10-up-and-coming-startups-on-goldman-sachs-radar-2015-9</link>
+            <guid isPermaLink="false">d1497a57-6dfe-43cb-ad64-d4b7cb236452</guid>
+            <pubDate>Fri, 09 Oct 2015 05:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/testing-1/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">a8b0f188-fa45-4d68-97cb-a0ed8e3beeec</guid>
+            <pubDate>Fri, 09 Oct 2015 05:28:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
